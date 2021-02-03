@@ -1,0 +1,42 @@
+.ug p {
+text-align: center;
+}
+p
+{font-size: 35px;
+    font-style: italic; }
+
+body{
+    background-color: rgb(0, 0, 0)
+}
+
+
+img{
+   
+    height: 300px;
+    border  :rgb(255, 255, 255) solid 5px ;
+   width: 400px;
+    text-align: center;
+    margin: 30px;
+    padding: 20px;
+  }
+  .ug div{
+      border: solid 2px red;
+      width: 525px;
+      height: 250;
+  }
+  .ug{
+    border: solid 2px rgb(255, 255, 255);
+    width: 570px;
+    height: 2556;
+    margin: auto;  
+  }
+  #o{
+      color: rgb(63, 71, 116);
+      background-color: rgb(255, 255, 255);
+      height: 200px;
+  }
+.n{
+    margin-left:100px ;
+    font-size: 50px;
+    height:50px ;
+}
