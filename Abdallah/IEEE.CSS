@@ -1,0 +1,154 @@
+.zozo {
+    color: #54145f;
+    font-size: 23px;
+    background-color: #B900FF;
+    border:#85009E solid 8px;
+    margin-right: 530px;
+    margin-left: 530px;
+    margin-top: 11px;
+    height: 430px;
+    width: 300px;
+    direction: rtl;
+    font-weight: bold ;
+    
+}
+.hamada
+ {
+    height: 475px;
+    width: 300px;
+    
+    background-color: #BE375F;
+    color: #fff;
+    font-size: 23px;
+    margin: 4px;
+    margin-top: 11px;
+    margin-left: 8px;
+    float: left;
+    border: #5F236B solid 8px;
+    direction: rtl;
+    font-weight: bold ;
+
+}
+
+.hamada1 {
+    height: 475px;
+    width: 300px;
+    background-color: #BE375F;
+    color: #Fff;
+    font-size: 23px;
+    margin: 60px;
+    float: left;
+    border: #5F236B solid 8px;
+    direction: rtl;
+    margin-right: 60px;
+    margin-left: 10;
+    font-weight: bold ;
+    margin-top: 11px;
+
+} 
+body
+{
+     background-color: #F5E86D;
+     border: #fff dashed 8px;
+     height: 2300px;
+}
+.jjh
+{
+    background: #060480;
+    
+    color: #fff;
+    padding-left: 15px;
+    margin-right: 1150px;
+    letter-spacing: 20px;
+    position: fixed;
+    margin-top: -10px;
+    margin-left: -7px;
+}
+a
+{
+    color: #fff;
+    text-decoration:none ;
+}
+.mo2taz
+{
+    height: 260px;
+    width:300px ;
+    border-radius: 50px;
+}
+.kareman
+{
+    height: 260px;
+    width: 298px;
+    border-radius: 50px;
+}
+.fatema
+{
+    height: 260px;
+    width: 300px;
+    border-radius: 50px;
+}
+.abdalmen3m
+{
+    height: 260px;
+    width: 300px;
+    border-radius: 50px;
+}
+.hagr
+{
+    height: 260px;
+    width: 300px;
+    border-radius: 50px;
+}
+.fareda
+{
+    height: 260px;
+    width: 300px;
+    border-radius: 50px;
+}
+.noha
+{
+    height: 260px;
+    width: 300px;
+    border-radius: 50px;
+}
+.shrouk
+{
+    height: 260px;
+    width: 300px;
+    border-radius: 50px;
+}
+.hodu
+{
+    height: 260px;
+    width: 300px;
+    border-radius: 50px;
+}
+.yasmen
+{
+    height: 260px;
+    width: 300px;
+    border-radius: 50px;
+}
+
+.sama
+{
+    height: 260px;
+    width: 300px;
+    border-radius: 50px;
+}
+.zinab
+{
+    height: 260px;
+    width: 300px; 
+    border-radius: 50px;
+}
+p
+{
+padding-right: 6px;
+}
+.aa
+{
+    margin-left: 210px;
+    margin-top: 71px;
+    float: left;
+}
